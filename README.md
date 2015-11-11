@@ -5,5 +5,5 @@
 ![code](code.png)
 
 我的博客对源代码有详细的分析
-[https://github.com/foio/MyRequireJS](https://github.com/foio/MyRequireJS)
+[http://foio.github.io/requireJS/](http://foio.github.io/requireJS/)
 
